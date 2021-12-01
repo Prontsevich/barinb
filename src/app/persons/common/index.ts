@@ -1,2 +1,2 @@
 export * from './person.interface';
-// export * from './person.util';
+export * from './person.util';
